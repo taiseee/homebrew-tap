@@ -1,8 +1,8 @@
 class Md2pdf < Formula
   desc "Markdown to PDF converter (pandoc + lualatex via Docker)"
   homepage "https://github.com/taiseee/md2pdf"
-  url "https://github.com/taiseee/md2pdf/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "2ad96b6baf277458a6a5bc251c265a2e26456cfb7e7fdfe1dcfb9a4e9291f5de"
+  url "https://github.com/taiseee/md2pdf/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "191ada2e56f9f88385ac73dfb0b8c4b9239538186fdc75cd1c80532c9d1726e2"
   license "MIT"
 
   def install
